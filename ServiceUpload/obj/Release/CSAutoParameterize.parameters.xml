@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ServiceContext-Web.config Connection String" description="ServiceContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:c5kqtn47hy.database.windows.net; Initial Catalog=MvcServiceUpload_db; USer Id=MvcServiceUpload; Password=Bd123456" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\u031220\\Documents\\Visual\ Studio\ 2012\\Projects\\ServiceUpload\\ServiceUpload\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ServiceContext']/@connectionString" />
+  </parameter>
+</parameters>
